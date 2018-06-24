@@ -2,7 +2,7 @@
 title: '崔博文的独立博客'
 description: '昵称Jupiter，95后，计算所硕士/伪极客/开拓者球迷，热爱技术&Dota。很高兴能在这里与你分享我对技术和生活的思考。'
 keyword: '崔博文, 崔博文的独立博客, 崔博文的博客, 技术, 算法 ，计算机 ，生活 ，工程'
-url: 'http://liaokeyu.com' # your host
+url: 'http://cuibowen.top' # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
@@ -31,7 +31,7 @@ nightMode: true
 # Comments 评论功能
 comments:
   disqus: false
-  disqus_url: 'https://liaokeyu.disqus.com/embed.js'
+  disqus_url: 'http://cuibowen.top/embed.js'
 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true
