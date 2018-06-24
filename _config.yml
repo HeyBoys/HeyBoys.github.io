@@ -51,6 +51,7 @@ postPatterns: 'circuitBoard'
 sns:
   weibo: '//weibo.com/1900205715/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1'
   github: '//github.com/HeyBoys'
+  zhihu:'https://www.zhihu.com/people/cui-bo-20/activities'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
