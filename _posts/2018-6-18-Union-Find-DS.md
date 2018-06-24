@@ -2,7 +2,7 @@
 layout: post
 title: 'Union-Find DS'
 date: 2018-06-18
-categories: 计算机
+categories: 技术
 tags: 数据结构 
 ---
 
