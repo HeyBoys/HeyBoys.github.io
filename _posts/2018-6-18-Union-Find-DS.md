@@ -3,6 +3,7 @@ layout: post
 title: 'Union-Find DS'
 date: 2018-06-18
 categories: 技术
+cover: '/assets/img/data_structure.jpg'
 tags: 数据结构 
 ---
 

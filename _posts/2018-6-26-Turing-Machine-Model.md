@@ -3,6 +3,7 @@ layout: post
 title: '图灵机模型与算法'
 date: 2018-06-26
 categories: 技术
+cover: '/assets/img/cs.jpg'
 tags: 计算理论
 ---
 # 图灵机模型
