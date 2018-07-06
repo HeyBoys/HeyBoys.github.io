@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ancient Cipher!'
+title: 'Ancient Cipher'
 date: 2018-07-06
 categories: 技术
 subtitle: 'LA 3213'
